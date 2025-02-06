@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686146009 source:c:\users\grary-\desktop\ejercicios\lab\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1686149610 source:c:\users\grary\desktop\pc\google apps\streaming google drive\otros ordenadores\mi portátil (1)\ejercicios\lab\cadenas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

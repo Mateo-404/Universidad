@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1682050400 source:c:\users\grary\documents\fdhbnxfd\ejerciciop1.c
+	<stdio.h>
+	<stdlib.h>
+
+1686772422 source:c:\users\grary\desktop\pc\google apps\streaming google drive\otros ordenadores\mi portátil\ejercicios\lab\akak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1682050641 source:c:\users\grary\desktop\pc\google apps\streaming google drive\otros ordenadores\mi portátil\ejercicios\lab\akak\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+

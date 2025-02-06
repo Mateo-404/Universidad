@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682815000 source:c:\users\grary-\desktop\aaaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1683166985 source:c:\users\grary\desktop\pc\google apps\streaming google drive\otros ordenadores\mi portátil (1)\ejercicios\lab\tp\aaaaaaaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
